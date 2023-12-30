@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **TRAVEL PLANNER**
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **BACKEND**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **sudharsan8113@gmail.com**
 
